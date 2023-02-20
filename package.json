@@ -1,0 +1,25 @@
+{
+  "name": "emmetish",
+  "version": "0.0.0",
+  "description": "CSS Framework, that uses Emmet abreviations as classes.",
+  "main": "compile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EstevezCarlos/Emmetish.git"
+  },
+  "keywords": [
+    "Emmet",
+    "CSS",
+    "framework",
+    "Stylus"
+  ],
+  "author": "Chuck Wright",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EstevezCarlos/Emmetish/issues"
+  },
+  "homepage": "https://github.com/EstevezCarlos/Emmetish#readme"
+}
